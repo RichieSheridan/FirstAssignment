@@ -51,7 +51,7 @@ public class Vehicle{
     public void displayInfo() {
         System.out.println("Number of Wheels: " + numberOfWheels);
         System.out.println("Color: " + color);
-        System.out.println("Engine Size: " + engineSize);
+        System.out.println("Engine Size: " +engineSize);
         System.out.println("Fuel Type: " + fuelType);
     }
 
